@@ -1,7 +1,7 @@
 # Rethinking Training for De-biasing Text-to-Image Generation: Unlocking the Potential of Stable Diffusion
 
 ## Introduction
-<img width="1047" height="590" alt="image" src="https://github.com/user-attachments/assets/0abbec16-f558-499a-8720-dfa74107b13c" />
+<img width="864" height="482" alt="image" src="https://github.com/user-attachments/assets/b8bf4c00-28e6-47ef-bcff-c1b79b48e17b" />
 
 기존 T2I 생성 모델의 디바이어싱 방식은 대부분 추가 학습(fine-tuning)을 통해 이루어졌다.
 이에 대한 대안으로 추가 학습 없이 편향을 완화하는 FairDiffusion이 제안된 바 있으나,
