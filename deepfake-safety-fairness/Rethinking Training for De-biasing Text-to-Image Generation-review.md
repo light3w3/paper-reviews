@@ -9,7 +9,7 @@
 image–text alignment가 깨지는 문제가 존재했다.
 
 본 논문은 이를 해결하기 위해 **weak guidance** 기반의 디바이어싱 방법을 제안한다.
-추가 학습 없이도 편향을 효과적으로 감소시키는 것이 핵심 기여점이다.
+추가 학습 없이도 편향을 효과적으로 감소시키면서 image-text alignment를 유지하는 것이 핵심 기여점이다.
 
 **Main Contributions:**
 1. 소수 속성(minority attributes)과 연관된 초기 노이즈들이 무작위로 산재하지 않고
