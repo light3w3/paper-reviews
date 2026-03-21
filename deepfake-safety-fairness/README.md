@@ -1,6 +1,6 @@
 # Deepfake, Safety & Fairness
 
-| 논문 | 리뷰 | 원본 링크 |
+| paper | review | paper link |
 |------|------|-----------|
 | Rethinking Training for De-biasing Text-to-Image Generation: Unlocking the Potential of Stable Diffusion | [리뷰](./rethinking-debiasing.md) | [arxiv](https://arxiv.org/abs/2308.12341) |
 | Detect-and-Guide | [리뷰](./detect-and-guide.md) | [arxiv](https://arxiv.org/abs/2404.16307) |
