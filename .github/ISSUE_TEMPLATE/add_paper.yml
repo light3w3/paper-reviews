@@ -1,0 +1,78 @@
+name: Add Paper
+description: README 테이블에 논문 추가
+title: "[ADD PAPER] "
+labels: ["add-paper"]
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 논문 제목
+      placeholder: "논문 제목을 입력하세요"
+    validations:
+      required: true
+
+  - type: input
+    id: conference
+    attributes:
+      label: 학회
+      placeholder: "학회명을 입력하세요 (예: CVPR)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: year
+    attributes:
+      label: 연도
+      options:
+        - "2026"
+        - "2025"
+        - "2024"
+        - "2023"
+        - "2022"
+        - "2021"
+        - "2020"
+        - "2019"
+        - "2018"
+        - "2017"
+        - "2016"
+        - "2015"
+        - "2014"
+        - "2013"
+        - "2012"
+        - "2011"
+        - "2010"
+        - "2009"
+        - "2008"
+        - "2007"
+        - "2006"
+        - "2005"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: 섹션
+      options:
+        - Fairness, Safety, Deepfake
+        - Diffusion Models
+        - Object Detection
+    validations:
+      required: true
+
+  - type: input
+    id: review_path
+    attributes:
+      label: Review 파일 경로
+      placeholder: "폴더명/논문제목-review.md"
+    validations:
+      required: true
+
+  - type: input
+    id: paper_url
+    attributes:
+      label: 논문 링크 URL
+      placeholder: "논문 링크 URL을 입력하세요"
+    validations:
+      required: true
