@@ -1,13 +1,11 @@
 # Diffusion Models
-
-| 논문 | 리뷰 | 원본 링크 |
-|------|------|-----------|
-| U-Net | [리뷰](./unet.md) | [arxiv](https://arxiv.org/abs/1505.04597) |
-| DDPM | [리뷰](./ddpm.md) | [arxiv](https://arxiv.org/abs/2006.11239) |
-| DDIM | [리뷰](./ddim.md) | [arxiv](https://arxiv.org/abs/2010.02502) |
-| SDE | [리뷰](./sde.md) | [arxiv](https://arxiv.org/abs/2011.13456) |
-| CLIP | [리뷰](./clip.md) | [arxiv](https://arxiv.org/abs/2103.00020) |
-| CFG | [리뷰](./cfg.md) | [arxiv](https://arxiv.org/abs/2207.12598) |
-| LoRA | [리뷰](./lora.md) | [arxiv](https://arxiv.org/abs/2106.09685) |
-| DiT | [리뷰](./dit.md) | [arxiv](https://arxiv.org/abs/2212.09748) |
-| LoRA: Low-Rank Adaptation of Large Language Models | ICLR | 2022 | [review](./LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
+| paper | conference | year | review | paper link |
+|-------|------------|------|--------|------------|
+| U-Net | - | - | [review](./unet.md) | [📎](https://arxiv.org/abs/1505.04597) |
+| DDPM | - | - | [review](./ddpm.md) | [📎](https://arxiv.org/abs/2006.11239) |
+| DDIM | - | - | [review](./ddim.md) | [📎](https://arxiv.org/abs/2010.02502) |
+| SDE | - | - | [review](./sde.md) | [📎](https://arxiv.org/abs/2011.13456) |
+| CLIP | - | - | [review](./clip.md) | [📎](https://arxiv.org/abs/2103.00020) |
+| CFG | - | - | [review](./cfg.md) | [📎](https://arxiv.org/abs/2207.12598) |
+| LoRA | - | - | [review](./lora.md) | [📎](https://arxiv.org/abs/2106.09685) |
+| DiT | - | - | [review](./dit.md) | [📎](https://arxiv.org/abs/2212.09748) |
