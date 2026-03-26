@@ -11,7 +11,7 @@
 | Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation | CVPR | 2025 | [review](./deepfake-safety-fairness/Silence%20is%20Golden-Leveraging%20Adversarial%20Examples%20to%20Nullify%20Audio%20Control%20in%20LDM-based%20Talking-Head%20Generation-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Gan_Silence_is_Golden_Leveraging_Adversarial_Examples_to_Nullify_Audio_Control_CVPR_2025_paper.pdf) |
 | Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images | CVPR | 2025 | [review](./deepfake-safety-fairness/Beyond%20Generation-A%20Diffusion-based%20Low-level%20Feature%20Extractor%20for%20Detecting%20AI-generated%20Images-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.pdf) |
 | Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization | CVPR | 2025 | [review](./deepfake-safety-fairness/Detect-and-Guide-Self-regulation%20of%20Diffusion%20Models%20for%20Safe%20Text-to-Image%20Generation%20via%20Guideline%20Token%20Optimization-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Detect-and-Guide_Self-regulation_of_Diffusion_Models_for_Safe_Text-to-Image_Generation_via_CVPR_2025_paper.pdf) |
-| Classifier-Free Diffusion Guidance | - | 2022 | [review](./deepfake-safety-fairness/Classifier-Free%20Diffusion%20Guidance-review.md) | [📎](https://arxiv.org/pdf/2207.12598) |
+
 
 ---
 
