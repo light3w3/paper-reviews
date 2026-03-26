@@ -12,7 +12,6 @@
 | Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images | CVPR | 2025 | [review](./deepfake-safety-fairness/Beyond%20Generation-A%20Diffusion-based%20Low-level%20Feature%20Extractor%20for%20Detecting%20AI-generated%20Images-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.pdf) |
 | Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization | CVPR | 2025 | [review](./deepfake-safety-fairness/Detect-and-Guide-Self-regulation%20of%20Diffusion%20Models%20for%20Safe%20Text-to-Image%20Generation%20via%20Guideline%20Token%20Optimization-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Detect-and-Guide_Self-regulation_of_Diffusion_Models_for_Safe_Text-to-Image_Generation_via_CVPR_2025_paper.pdf) |
 
-
 ---
 
 # Diffusion Models
@@ -20,6 +19,7 @@
 |-------|------------|------|--------|------------|
 | LoRA: Low-Rank Adaptation of Large Language Models | ICLR | 2022 | [review](./diffusion-models/LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
 | Scalable Diffusion Models with Transformers | ICCV | 2023 | [review](./diffusion-models/Scalable%20Diffusion%20Models%20with%20Transformers-review.md) | [📎](https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf) |
+| Classifier-Free Diffusion Guidance | - | 2022 | [review](./diffusion-models/Classifier-Free%20Diffusion%20Guidance-review.md) | [📎](https://arxiv.org/pdf/2207.12598) |
 
 ---
 
