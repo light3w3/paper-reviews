@@ -11,34 +11,31 @@
 | Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation | CVPR | 2025 | [review](./deepfake-safety-fairness/Silence%20is%20Golden-Leveraging%20Adversarial%20Examples%20to%20Nullify%20Audio%20Control%20in%20LDM-based%20Talking-Head%20Generation-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Gan_Silence_is_Golden_Leveraging_Adversarial_Examples_to_Nullify_Audio_Control_CVPR_2025_paper.pdf) |
 | Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images | CVPR | 2025 | [review](./deepfake-safety-fairness/Beyond%20Generation-A%20Diffusion-based%20Low-level%20Feature%20Extractor%20for%20Detecting%20AI-generated%20Images-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.pdf) |
 | Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization | CVPR | 2025 | [review](./deepfake-safety-fairness/Detect-and-Guide-Self-regulation%20of%20Diffusion%20Models%20for%20Safe%20Text-to-Image%20Generation%20via%20Guideline%20Token%20Optimization-review.md) | [📎](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Detect-and-Guide_Self-regulation_of_Diffusion_Models_for_Safe_Text-to-Image_Generation_via_CVPR_2025_paper.pdf) |
-| LoRA: Low-Rank Adaptation of Large Language Models | ICLR | 2022 | [review](./deepfake-safety-fairness/LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
+
 
 ---
 
 # Diffusion Models
-
-| 논문 | 리뷰 | 원본 링크 |
-|------|------|-----------|
-| U-Net | [리뷰](./diffusion-models/unet.md) | [arxiv](https://arxiv.org/abs/1505.04597) |
-| DDPM | [리뷰](./diffusion-models/ddpm.md) | [arxiv](https://arxiv.org/abs/2006.11239) |
-| DDIM | [리뷰](./diffusion-models/ddim.md) | [arxiv](https://arxiv.org/abs/2010.02502) |
-| SDE | [리뷰](./diffusion-models/sde.md) | [arxiv](https://arxiv.org/abs/2011.13456) |
-| CLIP | [리뷰](./diffusion-models/clip.md) | [arxiv](https://arxiv.org/abs/2103.00020) |
-| CFG | [리뷰](./diffusion-models/cfg.md) | [arxiv](https://arxiv.org/abs/2207.12598) |
-| LoRA | [리뷰](./diffusion-models/lora.md) | [arxiv](https://arxiv.org/abs/2106.09685) |
-| DiT | [리뷰](./diffusion-models/dit.md) | [arxiv](https://arxiv.org/abs/2212.09748) |
-| LoRA: Low-Rank Adaptation of Large Language Models | ICLR | 2022 | [review](./diffusion-models/LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
+| paper | conference | year | review | paper link |
+|-------|------------|------|--------|------------|
+| U-Net | - | - | [review](./unet.md) | [📎](https://arxiv.org/abs/1505.04597) |
+| DDPM | - | - | [review](./ddpm.md) | [📎](https://arxiv.org/abs/2006.11239) |
+| DDIM | - | - | [review](./ddim.md) | [📎](https://arxiv.org/abs/2010.02502) |
+| SDE | - | - | [review](./sde.md) | [📎](https://arxiv.org/abs/2011.13456) |
+| CLIP | - | - | [review](./clip.md) | [📎](https://arxiv.org/abs/2103.00020) |
+| CFG | - | - | [review](./cfg.md) | [📎](https://arxiv.org/abs/2207.12598) |
+| LoRA | - | - | [review](./lora.md) | [📎](https://arxiv.org/abs/2106.09685) |
+| DiT | - | - | [review](./dit.md) | [📎](https://arxiv.org/abs/2212.09748) |
 
 ---
 
 # Object Detection
-
-| 논문 | 리뷰 | 원본 링크 |
-|------|------|-----------|
-| Faster R-CNN | [리뷰](./object-detection/faster-rcnn.md) | [arxiv](https://arxiv.org/abs/1506.01497) |
-| FPN | [리뷰](./object-detection/fpn.md) | [arxiv](https://arxiv.org/abs/1612.03144) |
-| DETR | [리뷰](./object-detection/detr.md) | [arxiv](https://arxiv.org/abs/2005.12872) |
-| YOLOv8 | [리뷰](./object-detection/yolov8.md) | [arxiv](https://arxiv.org/abs/2305.09972) |
-| ViLD | [리뷰](./object-detection/vild.md) | [arxiv](https://arxiv.org/abs/2104.13921) |
-| ORE | [리뷰](./object-detection/ore.md) | [arxiv](https://arxiv.org/abs/2103.02603) |
-| OW-OVD | [리뷰](./object-detection/ow-ovd.md) | [arxiv](https://arxiv.org/abs/2311.14200) |
+| paper | conference | year | review | paper link |
+|-------|------------|------|--------|------------|
+| Faster R-CNN | - | - | [review](./faster-rcnn.md) | [📎](https://arxiv.org/abs/1506.01497) |
+| FPN | - | - | [review](./fpn.md) | [📎](https://arxiv.org/abs/1612.03144) |
+| DETR | - | - | [review](./detr.md) | [📎](https://arxiv.org/abs/2005.12872) |
+| YOLOv8 | - | - | [review](./yolov8.md) | [📎](https://arxiv.org/abs/2305.09972) |
+| ViLD | - | - | [review](./vild.md) | [📎](https://arxiv.org/abs/2104.13921) |
+| ORE | - | - | [review](./ore.md) | [📎](https://arxiv.org/abs/2103.02603) |
+| OW-OVD | - | - | [review](./ow-ovd.md) | [📎](https://arxiv.org/abs/2311.14200) |
