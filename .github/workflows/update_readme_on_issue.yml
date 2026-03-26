@@ -94,7 +94,7 @@ jobs:
             for (let i = 0; i < folders.length; i++) {
               const { dir, prefix } = folders[i];
               const content = fs.readFileSync(`${dir}/README.md`, 'utf8');
-              const replaced = content.replace(/\.\//g, prefix);
+              const replaced = content.replace(/\]\(\.\//g, `](${prefix}`);
               root += '\n' + replaced;
               if (i < folders.length - 1) root += '\n---\n';
             }
