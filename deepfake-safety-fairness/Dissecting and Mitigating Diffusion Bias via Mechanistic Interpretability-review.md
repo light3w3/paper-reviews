@@ -1,5 +1,7 @@
 # Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability
 ## Introduction
+<img width="1370" height="768" alt="image" src="https://github.com/user-attachments/assets/26305c09-69bf-4dee-9c1d-9f0d5efcc59d" />
+
 
 확산 모델의 편향 문제를 위해서 파인튜닝하는 방식이나 프롬프트 수정, 어텐션 가중치를 조작 등 생성 과정 자체를 건드리는 방식은 모델 내부 메커니즘을 충분히 반영하지 못해 비용 문제도 있지만 품질 저하나 과도한 보정 문제가 발생한다.
 
@@ -8,12 +10,16 @@
 ---
 
 ## Methodology — DIFFLENS
+<img width="1370" height="768" alt="image" src="https://github.com/user-attachments/assets/3004f531-59c1-4f9d-9176-f4b5798989da" />
+
 
 DIFFLENS는 다의적 뉴런을 분리하는 과정을 먼저 하고, Bias Feature를 식별한 뒤에 이를 가지고 조작을 수행하는 **세 단계**로 구성된다. 
 
 ---
 
 ### Step 1. 다의적 뉴런 분리
+<img width="1374" height="770" alt="image" src="https://github.com/user-attachments/assets/fd5e3001-2dbc-4271-868a-fe2f204019c7" />
+
 
 Step 1은 하나의 뉴런이 여러 개념에 동시에 반응하는 다의성(Polysemanticity) 문제를 해결하기 위해, **k-Sparse Autoencoder(k-SAE)** 를 사용해 은닉 상태를 더 큰 차원의, 즉 희소한 의미 공간으로 변환한다. 다음으로 상위 k개만 활성화해서 실제로 의미 있는 특징들만 fired된다. 따라서 변환된 공간에서의 각 특징은 단일한 의미(Monosemantic)를 가지기 때문에, 특정 속성에 해당하는 특징을 정밀하게 위치시킬 수 있다. 
 
@@ -29,6 +35,8 @@ Step 1은 하나의 뉴런이 여러 개념에 동시에 반응하는 다의성(
 ---
 
 ### Step 2. Bias Feature 식별
+<img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/f87c724a-34c0-4d84-80ab-e2b247db39e2" />
+
 
 편향 생성에 기여하는 특징을 찾기 위해 **그래디언트 기반 Attribution**을 사용한다.
 
@@ -44,6 +52,8 @@ Step 1은 하나의 뉴런이 여러 개념에 동시에 반응하는 다의성(
 ---
 
 ### Step 3. Bias Feature 개입
+<img width="1377" height="773" alt="image" src="https://github.com/user-attachments/assets/cbce468d-e193-47b7-929a-dda14dd579c7" />
+
 
 식별된 Bias Feature를 억제하거나 증폭시켜 편향 수준을 제어한다. 방법은 **Scaling**과 **Adding** 두 가지다.
 
