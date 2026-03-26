@@ -17,14 +17,6 @@
 # Diffusion Models
 | paper | conference | year | review | paper link |
 |-------|------------|------|--------|------------|
-| U-Net | - | - | [review](./diffusion-models/unet.md) | [📎](https://arxiv.org/abs/1505.04597) |
-| DDPM | - | - | [review](./diffusion-models/ddpm.md) | [📎](https://arxiv.org/abs/2006.11239) |
-| DDIM | - | - | [review](./diffusion-models/ddim.md) | [📎](https://arxiv.org/abs/2010.02502) |
-| SDE | - | - | [review](./diffusion-models/sde.md) | [📎](https://arxiv.org/abs/2011.13456) |
-| CLIP | - | - | [review](./diffusion-models/clip.md) | [📎](https://arxiv.org/abs/2103.00020) |
-| CFG | - | - | [review](./diffusion-models/cfg.md) | [📎](https://arxiv.org/abs/2207.12598) |
-| LoRA | - | - | [review](./diffusion-models/lora.md) | [📎](https://arxiv.org/abs/2106.09685) |
-| DiT | - | - | [review](./diffusion-models/dit.md) | [📎](https://arxiv.org/abs/2212.09748) |
 | LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS | ICLR | 2022 | [review](./diffusion-models/LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
 
 ---
@@ -32,10 +24,4 @@
 # Object Detection
 | paper | conference | year | review | paper link |
 |-------|------------|------|--------|------------|
-| Faster R-CNN | - | - | [review](./object-detection/faster-rcnn.md) | [📎](https://arxiv.org/abs/1506.01497) |
-| FPN | - | - | [review](./object-detection/fpn.md) | [📎](https://arxiv.org/abs/1612.03144) |
-| DETR | - | - | [review](./object-detection/detr.md) | [📎](https://arxiv.org/abs/2005.12872) |
-| YOLOv8 | - | - | [review](./object-detection/yolov8.md) | [📎](https://arxiv.org/abs/2305.09972) |
-| ViLD | - | - | [review](./object-detection/vild.md) | [📎](https://arxiv.org/abs/2104.13921) |
-| ORE | - | - | [review](./object-detection/ore.md) | [📎](https://arxiv.org/abs/2103.02603) |
-| OW-OVD | - | - | [review](./object-detection/ow-ovd.md) | [📎](https://arxiv.org/abs/2311.14200) |
+
