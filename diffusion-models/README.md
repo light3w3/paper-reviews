@@ -9,3 +9,4 @@
 | CFG | - | - | [review](./cfg.md) | [📎](https://arxiv.org/abs/2207.12598) |
 | LoRA | - | - | [review](./lora.md) | [📎](https://arxiv.org/abs/2106.09685) |
 | DiT | - | - | [review](./dit.md) | [📎](https://arxiv.org/abs/2212.09748) |
+| LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS | ICLR | 2022 | [review](./LoRA-Low-Rank%20Adaptation%20of%20Large%20Language%20Models-review.md) | [📎](https://arxiv.org/pdf/2106.09685) |
