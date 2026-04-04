@@ -1,4 +1,4 @@
-<img width="2154" height="1209" alt="image" src="https://github.com/user-attachments/assets/4972e219-343a-45e2-a847-6f6f41be37a7" /># AIM-Fair: Improving Fairness via Selective Fine-Tuning with Synthetic Data
+# AIM-Fair: Improving Fairness via Selective Fine-Tuning with Synthetic Data
 
 ## 1. Introduction
 
