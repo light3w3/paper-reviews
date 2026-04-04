@@ -46,7 +46,7 @@ jobs:
               .map(seg => encodeURIComponent(seg).replace(/%2F/g, '/'))
               .join('/');
 
-            const newRow = `| ${title} | ${conference} | ${year} | [review](./${encodedPath}) | [📎](${paperUrl}) |`;
+            const newRow = `| ${title} | ${conference} | ${year} | [review](./${encodedPath}) | [🔗](${paperUrl}) |`;
 
             // 섹션 → 하위 폴더 매핑
             const sectionFolderMap = {
