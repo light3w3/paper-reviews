@@ -1,4 +1,4 @@
-<img width="1330" height="751" alt="image" src="https://github.com/user-attachments/assets/963db2a9-13ec-445e-b17a-d555b09d5ae0" /># Joint Vision-Language Social Bias Removal for CLIP
+# Joint Vision-Language Social Bias Removal for CLIP
 
 ## Introduction
 <img width="1541" height="864" alt="image" src="https://github.com/user-attachments/assets/e0e6a044-5725-4e14-b381-48a8a709840c" />
