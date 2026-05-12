@@ -9,7 +9,8 @@
 ---
 
 ## 2. Gender Bias Quantification
-<img width="2044" height="1145" alt="image" src="https://github.com/user-attachments/assets/ae9679c3-aad1-4e55-ab92-5964f8def866" />
+<img width="2034" height="1144" alt="image" src="https://github.com/user-attachments/assets/4f53b434-22ea-47f0-b96e-e05145d439b6" />
+
 
 ### 젠더 속성 정의 및 지표 산출
 
